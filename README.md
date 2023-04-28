@@ -101,7 +101,7 @@ Understanding this information is important in interpreting the data. However, i
 
 This question would be important for an executive to determine where in which country it might be the most profitable to produce a movie within. Additionally, this country generates a relatively general baseline direction of where business might be most profitable that could lead to more specific analysis depending on decisions made at this level. 
 
-    Attributes we used for Budeget vs. Gross Revenue analysis: 
+    Attributes we used for Budget vs. Gross Revenue analysis: 
     1. budget
     2. gross
     3. country
@@ -123,7 +123,7 @@ This question would be important for an executive to determine where in which co
 ![App Screenshot](https://raw.githubusercontent.com/carsonehall15/21479/main/Screen%20Shot%202023-04-27%20at%205.59.17%20PM.png)
 ## Explanation of Question #2. 
 
-The chart shows that the US, Japan, New Zealand, South Korea, Spain, Australia, United Kingdom, China, Germany, and Honk Kong have high returns on average based on the budgets and Gross revenues of movies within those countries. This data also shows a general trendline for Net with a scatterplot divided by red and blue at an ROI of zero. This shows a couple things one of which is the lower quantity of negative ROI movies as budget increases. Additionally, the trendlines given for each of the countries could be used to predict potential returns for movies created  in these countries. However, some of the smaller countries do have a lower R^2 and a lack of fit for the trendline which would cause their predictions to potentially be erroneous. These could still be potentially viable options for a new movie, but more research would likely be needed. 
+The chart shows that the US, Japan, New Zealand, South Korea, Spain, Australia, United Kingdom, China, Germany, and Hong Kong have high returns on average based on the budgets and Gross revenues of movies within those countries. This data also shows a general trendline for Net with a scatterplot divided by red and blue at an ROI of zero. This shows a couple things one of which is the lower quantity of negative ROI movies as budget increases. Additionally, the trendlines given for each of the countries could be used to predict potential returns for movies created  in these countries. However, some of the smaller countries do have a lower R^2 and a lack of fit for the trendline which would cause their predictions to potentially be erroneous. These could still be potentially viable options for a new movie, but more research would likely be needed. 
 
 ## Manipulations to Data Set for Question #2
 
