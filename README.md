@@ -1,3 +1,4 @@
+
 ## Team Name and Members
 
 Team Name: 21479_2
@@ -47,7 +48,7 @@ Our data set contains 6820 movies (rows), some having all of the attributes and 
 
 ## Question #1: In the top 20 countries (based on average scores of movies produced in that country), what is the most popular genre (based on score)?
 
-This question is relevant to management at the company because it will help them to determine their target audience in each country based on the most popular genre that customers and critics like as well as how the movies are scoring. This way, management can prioritize these genres and maximize profits in these areas.
+This question is relevant to management at the company because it will help them to determine their target audience in each country based on the most popular genre that customers and critics like, as well as how the movies are scoring. This way, management can prioritize these genres and maximize profits in these areas.
 
 
     Attributes we used for analysis in Map visualization: 
@@ -99,7 +100,7 @@ Understanding this information is important in interpreting the data. However, i
 
 ## Question #2: Of countries from 2000 to present with over ten movies and a top ten average gross revenue per movie, which ten offer the highest return on investment? 
 
-This question would be important for an executive to determine where in which country it might be the most profitable to produce a movie within. Additionally, this country generates a relatively general baseline direction of where business might be most profitable that could lead to more specific analysis depending on decisions made at this level. 
+This question would be important for an executive to determine in which country it might be the most profitable to produce a movie within. This identifies movies thats profit has greatly exceeded its budget therefore making up for the costs of producing the movie. Looking at Return on Investment for various projects will allow executives in the future to know what projects to spend time on. 
 
     Attributes we used for Budget vs. Gross Revenue analysis: 
     1. budget
